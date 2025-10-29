@@ -1,0 +1,13 @@
+.dark-mode{
+  background-color:white;
+  color: black;
+   width: 100vw;  /* full viewport width */
+  height: 100vh;
+}
+
+.light-mode{
+  background-color: rgba(0, 0, 0, 0.637);
+  color: white;
+   width: 100vw;  /* full viewport width */
+  height: 100vh;
+}
